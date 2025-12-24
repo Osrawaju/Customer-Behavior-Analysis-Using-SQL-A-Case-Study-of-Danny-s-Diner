@@ -4,7 +4,7 @@ SQL analysis of Danny’s Diner – 8 Week SQL Challenge (Week 1)
 INTRODUCTION
 The 8 Week SQL Challenge is a collection of real-world inspired SQL case studies created to help analysts strengthen their SQL and analytical thinking skills. Each case study focuses on answering business questions using available data.
 
-In this article, I walk through my solution to Week 1: Danny’s Diner, where I used SQL to analyze customer purchasing behavior for a small restaurant. The goal of this project is not just to write SQL queries, but to derive meaningful business insights that can help improve decision-making.
+In this project, I walk through my solution to Week 1: Danny’s Diner, where I used SQL to analyze customer purchasing behavior for a small restaurant. The goal of this project is not just to write SQL queries, but to derive meaningful business insights that can help improve decision-making.
 
 This project demonstrates my ability to:
 
